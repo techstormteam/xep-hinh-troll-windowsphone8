@@ -1,0 +1,11 @@
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\bin\Windows Phone\Debug\XepHinhTroll.dll
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\bin\Windows Phone\Debug\XepHinhTroll.pdb
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\obj\Windows Phone\Debug\XepHinhTroll.dll
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\obj\Windows Phone\Debug\XepHinhTroll.pdb
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\bin\Windows Phone\Debug\XepHinhTroll.xap
+c:\users\thien\documents\visual studio 2012\Projects\XepHinhTroll\XepHinhTroll\XepHinhTroll\obj\Windows Phone\Debug\XapCacheFile.xml
